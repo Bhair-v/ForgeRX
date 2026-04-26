@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Search, Send } from 'lucide-react';
 // FIREBASE IMPORTS
 import { collection, addDoc, query, orderBy, onSnapshot, serverTimestamp } from 'firebase/firestore';
-import { db } from './firebase'; 
+import { db } from './firebase';
 
 // 1. Updated Team Members from your image
 const TEAM_MEMBERS = {
