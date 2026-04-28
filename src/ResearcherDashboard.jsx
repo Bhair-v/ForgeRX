@@ -15,7 +15,7 @@ import {
 // ============================================================================
 // ⚠️ REPLACE THIS WITH YOUR LOCALTUNNEL URL FROM GOOGLE COLAB
 // ============================================================================
-const COLAB_API_URL = 'https://flat-swans-lie.loca.lt';
+const COLAB_API_URL = 'https://tough-wasps-watch.loca.lt';
 
 const activeProjects = [
   {
